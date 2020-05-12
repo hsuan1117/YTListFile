@@ -1,2 +1,2 @@
 # YTListFile
-The json-based Youtube Playlist File (YTLF) 
+The json-based Youtube List File (YTLF) 
